@@ -1,0 +1,2 @@
+# tradeStatisticCalculator
+Функционал:
